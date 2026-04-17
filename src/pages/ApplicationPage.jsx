@@ -64,7 +64,7 @@ export default function ApplicationPage() {
         </div>
 
         <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:justify-end">
-          <Button type="reset" className="bg-gray-100 text-gray-700 hover:bg-gray-200">Clear Form</Button>
+          {/* <Button type="reset" className="bg-gray-100 text-gray-700 hover:bg-gray-200">Clear Form</Button> */}
           <Button type="submit" isLoading={status === 'loading'}>Submit Application</Button>
         </div>
       </form>

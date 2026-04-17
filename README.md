@@ -10,11 +10,6 @@ A production-ready, frontend-only React application simulating an admissions por
 - **Responsive EdTech UI**: Clean, accessible, mobile-first Tailwind design
 - **Zero External Dependencies**: Pure React + Tailwind for fast setup
 
-## Screenshots
-*(Placeholders for actual deployment screenshots)*
-| Form View | Loading State | Success View |
-|-----------|---------------|--------------|
-| ![Form](placeholder1.png) | ![Loading](placeholder2.png) | ![Success](placeholder3.png) |
 
 ## 🛠️ Setup Instructions
 1. Clone the repository:
