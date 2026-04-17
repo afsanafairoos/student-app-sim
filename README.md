@@ -9,7 +9,7 @@ A production-ready, frontend-only React application simulating an admissions por
 - **Local Persistence**: Saves successful applications to `localStorage`
 - **Responsive EdTech UI**: Clean, accessible, mobile-first Tailwind design
 - **Zero External Dependencies**: Pure React + Tailwind for fast setup
-**Form URL : https://student-app-gfyiq6bte-afsanafairoos-projects.vercel.app/**
+- **Form URL : https://student-app-gfyiq6bte-afsanafairoos-projects.vercel.app/**
 
 ## 🛠️ Setup Instructions
 1. Clone the repository:
